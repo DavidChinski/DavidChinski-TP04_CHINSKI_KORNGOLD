@@ -1,0 +1,8 @@
+Z:\Programacion\Tp_04_Korngold_Chinski\obj\Debug\net8.0\Tp_04_Korngold_Chinski.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programacion\Tp_04_Korngold_Chinski\obj\Debug\net8.0\Tp_04_Korngold_Chinski.AssemblyInfoInputs.cache
+Z:\Programacion\Tp_04_Korngold_Chinski\obj\Debug\net8.0\Tp_04_Korngold_Chinski.AssemblyInfo.cs
+Z:\Programacion\Tp_04_Korngold_Chinski\obj\Debug\net8.0\Tp_04_Korngold_Chinski.csproj.CoreCompileInputs.cache
+Z:\Programacion\Tp_04_Korngold_Chinski\obj\Debug\net8.0\Tp_04_Korngold_Chinski.MvcApplicationPartsAssemblyInfo.cache
+Z:\Programacion\Tp_04_Korngold_Chinski\obj\Debug\net8.0\Tp_04_Korngold_Chinski.RazorAssemblyInfo.cache
+Z:\Programacion\Tp_04_Korngold_Chinski\obj\Debug\net8.0\Tp_04_Korngold_Chinski.RazorAssemblyInfo.cs
+Z:\Programacion\Tp_04_Korngold_Chinski\obj\Debug\net8.0\Tp_04_Korngold_Chinski.sourcelink.json
