@@ -44,7 +44,11 @@ public class HomeController : Controller
             Paquete paq1 = new Paquete(ORTWorld.ListaHoteles[Hotel], ORTWorld.ListaAereos[Aereo], ORTWorld.ListaExcursiones[Excursion]);
 
 
-            return View();
+            return RedirectToAction("Index");
+        }
+        else{
+
+            return RedirectToAction("SelectPaquete");
         }
 
 

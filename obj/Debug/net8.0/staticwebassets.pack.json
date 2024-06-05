@@ -1,0 +1,205 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\AeroMexico.jpg",
+      "PackagePath": "staticwebassets\\AeroMexico.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Aerolineas Argentinas.jpg",
+      "PackagePath": "staticwebassets\\Aerolineas Argentinas.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Air Canada.jpg",
+      "PackagePath": "staticwebassets\\Air Canada.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\American Airlines.jpg",
+      "PackagePath": "staticwebassets\\American Airlines.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Bahia Principe.jpg",
+      "PackagePath": "staticwebassets\\Bahia Principe.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Bernabeu.jpg",
+      "PackagePath": "staticwebassets\\Bernabeu.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Best Western.jpg",
+      "PackagePath": "staticwebassets\\Best Western.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Cartel.jpg",
+      "PackagePath": "staticwebassets\\Cartel.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Central Park.jpg",
+      "PackagePath": "staticwebassets\\Central Park.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Copa.jpg",
+      "PackagePath": "staticwebassets\\Copa.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Delfines.jpg",
+      "PackagePath": "staticwebassets\\Delfines.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Delta.jpg",
+      "PackagePath": "staticwebassets\\Delta.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Endless Summer.jpg",
+      "PackagePath": "staticwebassets\\Endless Summer.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Gran Palladium.jpg",
+      "PackagePath": "staticwebassets\\Gran Palladium.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\HardRock.jpg",
+      "PackagePath": "staticwebassets\\HardRock.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Hilton.jpg",
+      "PackagePath": "staticwebassets\\Hilton.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Holiday Inn.jpg",
+      "PackagePath": "staticwebassets\\Holiday Inn.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Hyatt.jpg",
+      "PackagePath": "staticwebassets\\Hyatt.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Iberia.jpg",
+      "PackagePath": "staticwebassets\\Iberia.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Isla Saona.jpg",
+      "PackagePath": "staticwebassets\\Isla Saona.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\JetBlue.jpg",
+      "PackagePath": "staticwebassets\\JetBlue.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Level.jpg",
+      "PackagePath": "staticwebassets\\Level.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Museo Holocausto.jpg",
+      "PackagePath": "staticwebassets\\Museo Holocausto.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Palacio de bellas artes.jpg",
+      "PackagePath": "staticwebassets\\Palacio de bellas artes.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Parques.jpg",
+      "PackagePath": "staticwebassets\\Parques.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Sagrada familia.jpg",
+      "PackagePath": "staticwebassets\\Sagrada familia.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Sawgrass.jpg",
+      "PackagePath": "staticwebassets\\Sawgrass.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Sheraton.jpg",
+      "PackagePath": "staticwebassets\\Sheraton.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\The Langham.jpg",
+      "PackagePath": "staticwebassets\\The Langham.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\United Airlines.jpg",
+      "PackagePath": "staticwebassets\\United Airlines.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\DavidChinski-TP04_CHINSKI_KORNGOLD\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Tp_04_Korngold_Chinski.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Tp_04_Korngold_Chinski.props",
+      "PackagePath": "build\\Tp_04_Korngold_Chinski.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Tp_04_Korngold_Chinski.props",
+      "PackagePath": "buildMultiTargeting\\Tp_04_Korngold_Chinski.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Tp_04_Korngold_Chinski.props",
+      "PackagePath": "buildTransitive\\Tp_04_Korngold_Chinski.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
