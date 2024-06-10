@@ -3,6 +3,26 @@
 }
 
 <div>
-    <h1>Index</h1>
-    <a href = '@Url.Action("SelectPaquete")'> Crear Paquete </a>
+    <h1>Bienvenido a ORTWorld</h1>
+    <a href='@Url.Action("SelectPaquete")'>Crear Paquete</a>
 </div>
+
+@if (ViewBag.Paquetes != null && ((Dictionary<string, Paquete>)ViewBag.Paquetes).Count > 0)
+{
+    <h2>Paquetes disponibles:</h2>
+    <ul>
+        @foreach (KeyValuePair<string, Paquete> paquete in (Dictionary<string, Paquete>)ViewBag.Paquetes)
+        {
+            <li>
+                <h3>@paquete.Key</h3>
+                <p><strong>Hotel:</strong> @paquete.Value.Hotel</p>
+                <p><strong>Aéreo:</strong> @paquete.Value.Aereo</p>
+                <p><strong>Excursión:</strong> @paquete.Value.Excursion</p>
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>No hay paquetes disponibles.</p>
+}

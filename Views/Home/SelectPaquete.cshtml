@@ -8,11 +8,46 @@
     
 
 }
+<input type = "number" name = "numDestino" min = 1 max = 10>
+
+
+@for (int i = 0; i < ORTWorld.ListaHoteles.Count; i++) 
+{
+    
+    <p> @(i+1). @ORTWorld.ListaHoteles[i]</p>
+     
+
+    <img src="~/img/@(ORTWorld.ListaHoteles[i]).jpg"/>
+}
+<input type = "number" name = "numHotel" min = 1 max = 10>
+
+@for (int i = 0; i < ORTWorld.ListaAereos.Count; i++) 
+{
+
+
+    <p>@(i+1).@ORTWorld.ListaAereos[i]</p>
+
+
+    <img src="~/img/@(ORTWorld.ListaAereos[i]).jpg"/>
+    
+
+}
+<input type = "number" name = "numAereo" min = 1 max = 10>
+
+@for (int i = 0; i < ORTWorld.ListaExcursiones.Count; i++) 
+{
+
+
+    <p>@(i+1).@ORTWorld.ListaExcursiones[i]</p>
+
+
+    <img src="~/img/@(ORTWorld.ListaExcursiones[i]).jpg"/>
+    
+    
+
+}
+<input type = "number" name = "numExc" min = 1 max = 10>
+
+<input type = "submit">
 
 </form>
-@for (int i = 0; i < ORTWorld.ListaHoteles.Count; i++) {
-
-
-    
-    <img src="@(ORTWorld.ListaHoteles[i])"/>
-}
