@@ -34,7 +34,7 @@ public class HomeController : Controller
     public IActionResult GuardarPaquete(int Destino, int Hotel, int Aereo, int Excursion)
     {
 
-        Console.WriteLine("Destino: " + Destino + " Hotel: " + Hotel + " Aereo: "+ Aereo + "Excursion: " +Excursion);
+        
 
         Paquete paq1 = new Paquete(ORTWorld.ListaHoteles[Hotel - 1], ORTWorld.ListaAereos[Aereo - 1], ORTWorld.ListaExcursiones[Excursion - 1]);
 

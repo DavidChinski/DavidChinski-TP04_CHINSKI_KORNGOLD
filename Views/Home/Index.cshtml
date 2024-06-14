@@ -4,7 +4,10 @@
 
 <div class="Bienvenida">
     <h1>Bienvenido a ORTWorld</h1>
-    <a href='@Url.Action("SelectPaquete")'>Crear Paquete</a>
+    <nav>
+    <li> <a href='@Url.Action("SelectPaquete")'>Crear Paquete</a> </li>
+
+    </nav>
 </div>
 
 @if (ViewBag.Paquetes != null && ((Dictionary<string, Paquete>)ViewBag.Paquetes).Count > 0)
@@ -14,10 +17,10 @@
         @foreach (KeyValuePair<string, Paquete> paquete in (Dictionary<string, Paquete>)ViewBag.Paquetes)
         {
             <li>
-                <h3>@paquete.Key</h3>
-                <p><strong>Hotel:</strong> @paquete.Value.Hotel</p>
-                <p><strong>Aéreo:</strong> @paquete.Value.Aereo</p>
-                <p><strong>Excursión:</strong> @paquete.Value.Excursion</p>
+                <h3>Destino: @paquete.Key</h3>
+                <p>Hotel: @paquete.Value.Hotel</p>
+                <p>Aéreo: @paquete.Value.Aereo</p>
+                <p>Excursión: @paquete.Value.Excursion</p>
             </li>
         }
     </ul>
