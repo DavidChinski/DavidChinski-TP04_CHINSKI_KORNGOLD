@@ -34,21 +34,17 @@ public class HomeController : Controller
     public IActionResult GuardarPaquete(int Destino, int Hotel, int Aereo, int Excursion)
     {
 
-        if (!(Destino == 0 || Hotel == 0 || Aereo == 0 || Excursion == 0))
+        Console.WriteLine("Destino: " + Destino + " Hotel: " + Hotel + " Aereo: "+ Aereo + "Excursion: " +Excursion);
+
+        Paquete paq1 = new Paquete(ORTWorld.ListaHoteles[Hotel - 1], ORTWorld.ListaAereos[Aereo - 1], ORTWorld.ListaExcursiones[Excursion - 1]);
+
+
+        if (ORTWorld.IngresarPaquete(ORTWorld.ListaDestinos[Destino - 1], paq1))
         {
-            ViewBag.ListaAereos = ORTWorld.ListaAereos;
-            ViewBag.ListaHoteles = ORTWorld.ListaHoteles;
-            ViewBag.ListaExcursiones = ORTWorld.ListaExcursiones;
-            ViewBag.ListaDestinos = ORTWorld.ListaDestinos;
-
-            Paquete paq1 = new Paquete(ORTWorld.ListaHoteles[Hotel], ORTWorld.ListaAereos[Aereo], ORTWorld.ListaExcursiones[Excursion]);
-
-
-            return RedirectToAction("SelectPaquete");
+            return RedirectToAction("Index");
         }
         else{
-
-            return RedirectToAction("Index");
+            return RedirectToAction("SelectPaquete");
         }
 
 

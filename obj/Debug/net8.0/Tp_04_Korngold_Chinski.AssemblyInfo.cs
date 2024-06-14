@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tp_04_Korngold_Chinski")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+685b16b0e67484b61abc1bca1a51ff2c35c18a83")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63e42e975969ffa81a965065d7d89406212acd56")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tp_04_Korngold_Chinski")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tp_04_Korngold_Chinski")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
